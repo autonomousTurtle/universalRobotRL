@@ -6,6 +6,7 @@ To launch files, download the universal robot files here:
 https://github.com/UniversalRobots/Universal_Robots_ROS_Driver
 
 (when launching, we are going to limit the rotation of the motors to pi instead of 2pi)
+
 ##To launch the environment: 
 
 roslaunch ur_gazebo ur5.launch limited:=true
